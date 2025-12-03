@@ -40,7 +40,7 @@ Users authenticate through **AWS Cognito** and securely upload/download files us
 
 ## 🚀 2. Features
 
-| S.No. | Feature |
+| S. No. | Feature |
 |---|---|
 | 1. | Cognito authentication |
 | 2. | Time-limited presigned access |
